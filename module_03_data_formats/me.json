@@ -1,0 +1,17 @@
+{
+  "name": "Аня",
+  "age": 23,
+  "isStudent": false,
+  "email": null,
+  "address": {
+    "city": "Санкт-Петербург",
+    "zip": "190000"
+  },
+  "hobbies": [
+    "музыка",
+    "рисование",
+    "путешествия"
+  ],
+  "radnomNumber": 7.4,
+  "experience": 3
+}
